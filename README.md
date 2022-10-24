@@ -11,3 +11,5 @@ responsiveness through mobile-first approach.
 multiple images of offers in a carousel using bootstrap carousel.
 
 Technologies used: HTML, CSS, Bootstrap
+
+Project link: https://pramodecom.ccbp.tech/
